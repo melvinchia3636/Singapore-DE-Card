@@ -1,0 +1,45 @@
+Full Name as it appears in passport/travel document (BLOCK LETTERS),  pfont
+Sex*,  pfont
+Male,  pfont
+Female,  pfont
+Passport Number,  pfont
+Place Of Issue,  pfont
+Date of Expiry,  pfont
+Country Of Birth,  pfont
+Date of Birth (DD-MM-YYYY),  pfont
+Nationality,  pfont
+Identity Card Number (for Malaysian Only),  pfont
+Flight No/Vessel Name/Vehicle No,  pfont
+FOR OFFICE USE ONLY,  pfont2
+Place of Residence,  pfont
+City,  pfont
+State,  pfont
+Country,  pfont
+Last City / Port of Embarkation Before Singapore,  pfont
+Next City /  Port of Disembarkation After Singapore,  pfont
+Address In Singapore,  pfont
+Length of Stay,  pfont
+Have you ever been to Africa or South America during the last 6 days?*,  pfont
+Have you ever/nused a passport/nunder different/nname to enter/nSingapore?*,  pfont
+Have you ever/nbeen prohibited/nfrom entering/nSingapore?*,  pfont
+If "Yes" state name(s) different/nfrom current passport,  pfont
+*Please tick (tickchar) appropriate box,  pfont
+Signature,  pfont
+Full Name as it appears in passport/travel document/n(BLOCK LETTERS),  pfont
+Nationality,  pfont
+Identity Card Number (for Malaysian Only),  pfont
+OFFICE USE ONLY,  pfont3
+Tick if/nMalaysian,  pfont
+Others,  pfont2
+Days,  pfont
+Yes,  pfont
+No,  pfont
+Yes,  pfont
+No,  pfont
+Yes,  pfont
+No,  pfont
+(4),  pfont
+(5),  pfont
+(6),  pfont
+14,  pfont2
+30,  pfont2
